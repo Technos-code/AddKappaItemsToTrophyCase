@@ -1,0 +1,26 @@
+{
+    "HallofFame":{
+        "63dbd45917fff4dee40fe16e":{ //place of fame stash 3
+            "filter":[
+                "5bc9c1e2d4351e00367fbcf0",     //Antique axe
+                "5bc9b156d4351e00367fbce9",     //Jar of DevilDog mayo
+                "5bc9c29cd4351e003562b8a3",     //Can of sprats
+                "5bd073a586f7747e6f135799",     //Fake mustache
+                "5bd073c986f7747f627e796c",     //Kotton beanie
+                "5e54f79686f7744022011103",     //Pestily plague mask
+                "5e54f76986f7740366043752",     //Shroud half-mask
+                "5fd8d28367cb5e077335170f",     //Smoke balaclava
+                "60b0f988c4449e4cb624c1da",     //Armband (Evasion)
+                "60b0f93284c20f0feb453da7",     //Can of RatCola soda
+                "60b0f6c058e0b0481a09ad11",     //WZ Wallet
+                "60b0f561c4449e4cb624c1d7",     //LVNDMARK's rat poison
+                "62a09e410b9d3c46de5b6e78",     //JohnB Liquid DNB glasses
+                "62a09e08de7ac81993580532",     //Glorious E lightweight armored mask
+                "62a09dd4621468534a797ac7",     //Baddie's red beard
+                "62a09d79de7ac81993580530",     //DRD body armor
+                "62a09d3bcf4a99369e262447",     //Gingy keychain
+                "62a09cb7a04c0c5c6e0a84f8"      //Press pass (issued for NoiceGuy)
+            ]
+        }
+    }
+}
